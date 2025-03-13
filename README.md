@@ -29,3 +29,6 @@ Cada jugador lanzará dados y elegirá una cara.
 Se registran los puntos y se repite el proceso por 6 turnos.
 
 Al final, se muestra el ganador.
+
+Autor
+NatoliJuan
