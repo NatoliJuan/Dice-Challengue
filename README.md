@@ -1,5 +1,6 @@
 # Dice Challengue
-![Captura de pantalla 2025-03-13 193025](https://github.com/user-attachments/assets/3d66d72d-aeec-4127-a041-7c5e570718cb)
+![Dados](C:\Users\natol\OneDrive\Desktop\Mis documentos\Clases_Martes\19_12_23(dados))
+
 
 Este es un juego de dados basado en turnos, donde los jugadores lanzan dados y eligen una cara para sumar puntos. 
 Gana el jugador con la puntuación más alta al final de la partida.
