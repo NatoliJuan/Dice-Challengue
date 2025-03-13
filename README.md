@@ -1,6 +1,5 @@
 # Dice Challengue
-![Dados](C:\Users\natol\OneDrive\Desktop\Mis documentos\Clases_Martes\19_12_23(dados))
-
+![Dados](img/dados.png)
 
 Este es un juego de dados basado en turnos, donde los jugadores lanzan dados y eligen una cara para sumar puntos. 
 Gana el jugador con la puntuación más alta al final de la partida.
