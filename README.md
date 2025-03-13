@@ -18,17 +18,17 @@ Python 3.x
 
 ## Cómo jugar
 
-1. Ejecuta el archivo en una terminal con:
+1 Ejecuta el archivo en una terminal con:
 
 python dados.py
 
-1. Ingresa el número de jugadores.
+2 Ingresa el número de jugadores.
 
-1. Cada jugador lanzará dados y elegirá una cara.
+3 Cada jugador lanzará dados y elegirá una cara.
 
-1. Se registran los puntos y se repite el proceso por 6 turnos.
+4 Se registran los puntos y se repite el proceso por 6 turnos.
 
-Al final, se muestra el ganador.
+5 Al final, se muestra el ganador.
 
 ## Autor
 NatoliJuan
