@@ -1,8 +1,8 @@
-Juego de Dados
+# Juego de Dados
 
 Este es un juego de dados basado en turnos, donde los jugadores lanzan dados y eligen una cara para sumar puntos. Gana el jugador con la puntuación más alta al final de la partida.
 
-Características
+## Características
 
 Se permite jugar con varios jugadores.
 
@@ -12,11 +12,11 @@ Se registran las puntuaciones de cada turno.
 
 El jugador con mayor puntuación al final gana la partida.
 
-Requisitos
+## Requisitos
 
 Python 3.x
 
-Cómo jugar
+## Cómo jugar
 
 Ejecuta el archivo en una terminal con:
 
@@ -30,5 +30,5 @@ Se registran los puntos y se repite el proceso por 6 turnos.
 
 Al final, se muestra el ganador.
 
-Autor
+## Autor
 NatoliJuan
