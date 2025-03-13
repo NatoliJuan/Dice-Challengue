@@ -1,5 +1,5 @@
 # Dice Challengue
-![Dados](img/dados.png)
+![Dados](https://github.com/tu-usuario/tu-repo/blob/main/img/dados.png?raw=true)
 
 Este es un juego de dados basado en turnos, donde los jugadores lanzan dados y eligen una cara para sumar puntos. 
 Gana el jugador con la puntuación más alta al final de la partida.
