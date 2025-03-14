@@ -1,8 +1,4 @@
 # Dice Challengue
-<<<<<<< HEAD
-=======
-<img src="img/Dados.png" alt="Logo Dados" width="300">
->>>>>>> edc7ed5 (Actualizar imagen en README)
 
 <img src="img/Dados.png" alt="Logo Dados" width="300">
  
