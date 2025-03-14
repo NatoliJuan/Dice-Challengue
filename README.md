@@ -1,6 +1,7 @@
 # Dice Challengue
 
-![Logos Dados](img/Dados.png)
+<img src="img/tu_imagen.png" alt="Descripción" width="300">
+
 
 
 Este es un juego de dados basado en turnos, donde los jugadores lanzan dados y eligen una cara para sumar puntos. 
