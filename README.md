@@ -1,6 +1,6 @@
 # Dice Challengue
 
-<img src="img/tu_imagen.png" alt="Descripción" width="300">
+<img src="img/Dados.png" alt="Logo Dados" width="300">
 
 
 
