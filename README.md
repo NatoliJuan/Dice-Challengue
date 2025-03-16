@@ -2,7 +2,7 @@
 
 <img src="img/Dados.png" alt="Logo Dados" width="300">
 
-Este es un juego de dados basado en turnos, donde los jugadores lanzan dados y eligen una cara para sumar puntos.  
+**Dice Challengue** es un juego de dados basado en turnos, donde los jugadores lanzan dados y eligen una cara para sumar puntos.  
 **Gana el jugador con la puntuación más alta al final de la partida.**
 
 ## 📋 **Características**
