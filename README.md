@@ -1,33 +1,32 @@
-# Dice Challengue
+# 🎲 **Dice Challenge**
 
 <img src="img/Dados.png" alt="Logo Dados" width="300">
- 
-Este es un juego de dados basado en turnos, donde los jugadores lanzan dados y eligen una cara para sumar puntos. 
-Gana el jugador con la puntuación más alta al final de la partida.
 
-## Características
+Este es un juego de dados basado en turnos, donde los jugadores lanzan dados y eligen una cara para sumar puntos.  
+**Gana el jugador con la puntuación más alta al final de la partida.**
 
-Se permite jugar con varios jugadores.
+## 📋 **Características**
 
-Cada jugador lanza dados y elige una cara.
+- 🎮 **Multijugador**: Se permite jugar con varios jugadores.
+- 🎲 **Lanzamiento de dados**: Cada jugador lanza dados y elige una cara.
+- 🏆 **Registro de puntuaciones**: Se registran las puntuaciones de cada turno.
+- 🥇 **Ganador**: El jugador con mayor puntuación al final gana la partida.
 
-Se registran las puntuaciones de cada turno.
+## 🕹️ **Cómo jugar**
 
-El jugador con mayor puntuación al final gana la partida.
+1. 🔧 **Ejecuta el archivo en una terminal con**:
 
-## Cómo jugar
+    ```
+    python dados.py
+    ```
 
-1 Ejecuta el archivo en una terminal con:
+2. ➕ **Ingresa el número de jugadores.**
 
-python dados.py
+3. 🎲 **Cada jugador lanzará dados y elegirá una cara.**
 
-2 Ingresa el número de jugadores.
+4. 📊 **Se registran los puntos y se repite el proceso por 6 turnos** (1 por cara del dado).
 
-3 Cada jugador lanzará dados y elegirá una cara.
+5. 🏆 **Al final, se muestra el ganador.**
 
-4 Se registran los puntos y se repite el proceso por 6 turnos.
-
-5 Al final, se muestra el ganador.
-
-## Autor
-NatoliJuan
+## ✍️ **Autor**
+Juan Natoli
